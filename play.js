@@ -6,7 +6,8 @@ plugin.Play.sounds = {
   'greatjob': ['//apps.whatcheerinc.com/talker/greatjob.mp3','Great Job!'],
   'rimshot': ['//apps.whatcheerinc.com/talker/rimshot.mp3','Rimshot!'],
   'hiyoooo': ['//apps.whatcheerinc.com/talker/hiyoooo.mp3','Hiyoooo!'],
-  'sadtrombone': ['//apps.whatcheerinc.com/talker/sadtrombone.mp3','Sad Trombone']
+  'sadtrombone': ['//apps.whatcheerinc.com/talker/sadtrombone.mp3','Sad Trombone'],
+  'tada': ['//apps.whatcheerinc.com/talker/tada.mp3','Tada!']
 };
 
 plugin.Play.loaded = Math.round(new Date().getTime() / 1000);
