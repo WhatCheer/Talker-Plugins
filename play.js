@@ -1,4 +1,6 @@
-// We missed the /plau commands from Campfire, so we implemented them for Talker
+// We missed the /play commands from Campfire, so we implemented them for Talker
+
+plugin.Play = {}
 
 plugin.Play.sounds = {
   'greatjob': ['//apps.whatcheerinc.com/talker/greatjob.mp3','Great Job!']
